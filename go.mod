@@ -1,1 +1,1 @@
-module plog
+module github.com/atmshang/plog
